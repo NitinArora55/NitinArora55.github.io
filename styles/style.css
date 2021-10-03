@@ -138,15 +138,3 @@ h2 {
     margin-bottom: 0px;
   }
 }
-
-#footer {
-   text-align: center;
-   left:0px;
-   bottom:0px;
-   height:30px;
-   width:100%;
-   color: black;
-   z-index: -1;
-}
-
-.heart{color:#e25555;}
